@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
-  <title>Sneh JioTV Android</title>
+  <title>Wolf JioTV Android</title>
   <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
   <meta name="robots" content="noindex" />
   <link rel="stylesheet" href="css/darkmode.min.css">
@@ -11,7 +11,7 @@
 </head>
 <body data-new-gr-c-s-check-loaded="14.1012.0" data-gr-ext-installed="">
 	<div id="jtvh1"><a href="https://github.com/techiesneh">
-	<h1>Sneh Jio TV Android</h1></div></a>
+	<h1>Wolf Jio TV Android</h1></div></a>
 <div id="content">
 <div class="container">
 <div id="list" class="row">
